@@ -1,4 +1,0 @@
-1) SKill1 - Git_bash
-2) Skill2 - Git_hub
-3) Skill3 - SQL
-4) Skill4 - Checklists,Test Cases
