@@ -1,0 +1,4 @@
+1) Skill1- Git Bash
+2) Skill2 - Git Hub
+3) Skill3 - SQL
+4) skill4 - Jira
