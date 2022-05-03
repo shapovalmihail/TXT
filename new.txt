@@ -1,11 +1,5 @@
-1) dad
-1) dad
-1) dad
-1) dad
-1) dad
-1) dad
-1) dad
-1) dad
-1) dad
-1) dad
+1) FIO - shapoval mihail anatolievich
+2) Age - 30
+3) Pets - 1
+4) 800
 
